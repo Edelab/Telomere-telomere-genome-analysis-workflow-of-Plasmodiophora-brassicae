@@ -2,11 +2,7 @@
 
 1. **Repeat content prediction and soft-masking** 
    
-# Repeat content prediction by RepeatModeller
-
 Repeat content prediction along genome assembly was carried out using RepeatModeller using Galaxy_Europe plateform [Link](https://usegalaxy.eu/)
-
-# Soft-masking of repeat region using RepeatMasker
 
 Predicted repeat content was softmasked using RepeatMasker using Galaxy_Europe plateform [Link](https://usegalaxy.eu/)
 
